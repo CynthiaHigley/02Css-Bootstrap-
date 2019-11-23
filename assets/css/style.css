@@ -3,19 +3,18 @@
     
 }
 .navbar{
-    border-block-width:2px;
+  
     border-style: solid;
+    border-color: aqua;
 }
 .navbar-brand{
-    background-color: aqua;
-    
+    background-color: aqua;    
 }
 #outset{
     border-style: outset;
 }
 .nav-link{
-    /* width: 200px, 0, 0, 0;  */
-    /* float: right; */
+   
     padding-left: 200px;
     border-right: thin;
 }
@@ -28,7 +27,6 @@ hr{
 }
 .nav-item{
     border-right: 1px solid #000;
-
 }
 
 .nav-item:last-of-type {
@@ -46,15 +44,9 @@ hr{
   .card-body{
       width: 350px; 
   }
-  /* .wrapper{
-      padding: 20px;
-      boarder:solid; 
-      width: 3px; 
-  } */
+ 
   .wrapper {
-    /* column-count: 2;
-    column-gap: 50px;
-    padding: 50px; */
+
     max-width: 960px;
     margin: 0 auto;
     padding: 20px;
@@ -73,13 +65,6 @@ hr{
     font-size: 14px;
   }
   
-  .star {
-    float: left;
-    width: 250px;
-    shape-outside: url(https://upload.wikimedia.org/wikipedia/commons/3/34/Red_star.svg);
-    shape-margin:20px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-  }
+ 
   
   
